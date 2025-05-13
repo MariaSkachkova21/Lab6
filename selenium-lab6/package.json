@@ -1,0 +1,19 @@
+{
+  "name": "selenium-lab6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "jest": {
+    "testEnvironment": "node",
+    "testTimeout": 60000
+  },
+  "dependencies": {
+    "selenium-webdriver": "^4.32.0"
+  }
+}
